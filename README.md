@@ -10,8 +10,7 @@ Efficient and responsive navigation
 Beginner-friendly and easy to build
 🧠 How It Works
 
-The ultrasonic sensor continuously measures the distance between the car and nearby objects. When an obstacle is detected within a certain range, the Arduino processes the data and changes the direction of the motors using a motor driver, allowing the car to avoid collisions.
-
+The ultrasonic sensor continuously measures the distance between the car and nearby objects. When an obstacle is detected within a certain range, the Arduino processes the data and changes the direction of the motors using a motor driver, allowing the car to avoid collisions. by the waay be careful while soldering the board; a beginner might just solder VCC and GND together
 🛠️ Components Used
 Arduino Uno
 Ultrasonic Sensor (HC-SR04)
@@ -19,8 +18,6 @@ Motor Driver (L293D / L298N)
 DC Motors with Wheels
 Chassis
 Battery Pack
-🚀 Applications
-Autonomous robotics
-Smart vehicles
-Basic AI navigation systems
-Educational STEM projects
+<img width="2823" height="1698" alt="Ultrasonic Obstacle Avoiding Car based on Arduino" src="https://github.com/user-attachments/assets/0e71254c-1e91-4e99-b0f9-6a3b8dc78838" />
+
+
